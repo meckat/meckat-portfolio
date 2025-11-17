@@ -1,4 +1,9 @@
 Engineering Showcase: Architecture of a Multi-Region AI SaaS Product
+
+**Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/meckat/)**
+
+---
+
 This document provides a high-level architectural overview of my primary work: MECKs Translator, a complete, proprietary AI-powered SaaS ecosystem.
 
 All repositories described herein are Closed Source. This showcase is intended to demonstrate my capabilities in system design, MLOps, and full-stack engineering by presenting the architecture of this complex, real-world application.
